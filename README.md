@@ -1,5 +1,3 @@
-# merchant-starter-kit
-A free and open-source website starter kit for local merchants and small businesses.
 # Merchant Starter Kit
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -8,6 +6,10 @@ A free and open-source website starter kit for local merchants and small busines
 ![Contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
 
 A free and open-source website starter kit for local merchants and small businesses.
+
+## Preview
+
+[![9tpr Studio home page](9tpr-home-page.png)](https://9tpr.base44.app/)
 
 ## Live Demo
 
@@ -86,6 +88,7 @@ You can quickly adapt the template to a real business:
 
 ```text
 merchant-starter-kit/
+├── 9tpr-home-page.png
 ├── index.html
 ├── style.css
 ├── README.md
